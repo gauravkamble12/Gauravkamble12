@@ -2,7 +2,7 @@
 <!-- 🚀 HERO SECTION -->
 <!-- ===================================================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&lines=Gaurav+Balaji+Kamble;Computer+Engineering+Undergraduate;Aspiring+Data+Analyst+%26+Cloud+Professional;Microsoft+Certified+in+Data+Analytics+%26+Cloud" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&lines=Welcome;Gaurav+Balaji+Kamble;Computer+Engineering+Undergraduate;Aspiring+Data+Analyst+%26+Cloud+Professional;Microsoft+Certified+in+Data+Analytics+%26+Cloud" />
 </p>
 
 <p align="center">
@@ -146,4 +146,8 @@
 
 <p align="center">
   ⭐ <strong>Open to internships & entry-level opportunities</strong> ⭐
+</p>
+
+<p align="center">
+   Thanks to visit my profile !
 </p>
